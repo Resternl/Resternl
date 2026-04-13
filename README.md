@@ -9,14 +9,14 @@
 
 <br>
 
----
+
 
 ## About Me
 
 I'm a backend developer who focuses on building systems for websites.  
 I use Python as my primary language and Node.js and Laravel as secondary languages I'm currently learning.
 
----
+
 
 # Techstack
 
@@ -29,13 +29,13 @@ I use Python as my primary language and Node.js and Laravel as secondary languag
 ## Currently Learning
 [![Learning](https://skillicons.dev/icons?i=python,laravel,nodejs)](https://skillicons.dev)
 
----
+
 
 # Tools & Environment
 
 ## Software & Platforms
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,pycharm)](https://skillicons.dev)
----
+
 
 # Github Stats
 
