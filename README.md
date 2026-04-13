@@ -44,13 +44,13 @@ I use Python as my primary language and Node.js and Laravel as secondary languag
 # Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Resternl&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Resternl&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resternl&layout=compact&theme=tokyonight" />
 </p>
