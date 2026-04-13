@@ -34,11 +34,7 @@ I use Python as my primary language and Node.js and Laravel as secondary languag
 # Tools & Environment
 
 ## Software & Platforms
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,pycharm,androidstudio,idea)](https://skillicons.dev)
-
-## Operating Systems
-[![OS](https://skillicons.dev/icons?i=windows,ubuntu,arch)](https://skillicons.dev)
-
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,pycharm)](https://skillicons.dev)
 ---
 
 # Github Stats
