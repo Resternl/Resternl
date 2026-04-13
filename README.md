@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0d1117&height=220&section=header&text=Wellcom%20to%20my%20profile&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DA0505,100:0d1117&height=220&section=header&text=Wellcom%20to%20my%20profile&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h2>Hi!, i’m Estern</h2>
