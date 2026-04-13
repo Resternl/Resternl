@@ -20,20 +20,20 @@ I use Python as my primary language and Node.js and Laravel as secondary languag
 
 # Techstack
 
-## Back-End Web Development
+Back-End Web Development
 [![Backend](https://skillicons.dev/icons?i=python,nodejs,php,laravel,go)](https://skillicons.dev)
 
-## Mobile Development
+Mobile Development
 [![Mobile](https://skillicons.dev/icons?i=dart,flutter)](https://skillicons.dev)
 
-## Currently Learning
+Currently Learning
 [![Learning](https://skillicons.dev/icons?i=python,laravel,nodejs)](https://skillicons.dev)
 
 
 
 # Tools & Environment
 
-## Software & Platforms
+Software & Platforms
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,pycharm)](https://skillicons.dev)
 
 
