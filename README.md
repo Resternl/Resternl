@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:DA0505,100:001876,125:27A700&section=header&text=Wellcom%20to%20my%20profile&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1>Hi!, i’m Estern</h1>
+<h1>Hi!, i’m Kairo</h1>
 
 <h3>• Backend web dev </h3>
 
