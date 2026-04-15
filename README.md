@@ -34,19 +34,19 @@ I use Laravel as my primary language and Node.js for real time system and also p
 # Tools
 
 ### Software 
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,pycharm,laragon)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,pycharm)](https://skillicons.dev)
 
 
 # Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Resternl&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Resternl&show_icons=true&theme=nord" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Resternl&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Resternl&theme=nord" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resternl&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resternl&layout=compact&theme=nord" />
 </p>
