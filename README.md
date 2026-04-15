@@ -34,7 +34,7 @@ I use Laravel as my primary language and Node.js for real time system and also p
 # Tools
 
 ### Software 
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,pycharm)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,pycharm,laragon)](https://skillicons.dev)
 
 
 # Github Stats
