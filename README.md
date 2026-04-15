@@ -14,7 +14,7 @@
 ## About Me
 
 I'm a backend developer who focuses on building systems for websites.  
-I use Python as my primary language and Node.js and Laravel as secondary languages I'm currently learning.
+I use Laravel as my primary language and Node.js for real time system and also python for automation and backend service.
 
 
 
@@ -40,13 +40,13 @@ I use Python as my primary language and Node.js and Laravel as secondary languag
 # Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Resternl&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Resternl&show_icons=true&theme=material-palenight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Resternl&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Resternl&theme=material-palenight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resternl&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resternl&layout=compact&theme=material-palenight" />
 </p>
