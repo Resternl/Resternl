@@ -21,7 +21,7 @@ I use Laravel as my primary language and Node.js for real time system and also p
 # Techstack
 
 ### BackEnd 
-[![Backend](https://skillicons.dev/icons?i=python,nodejs,php,laravel,go)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=python,nodejs,php,laravel,npm)](https://skillicons.dev)
 
 ### Mobile Development
 [![Mobile](https://skillicons.dev/icons?i=dart,flutter)](https://skillicons.dev)
