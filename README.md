@@ -40,13 +40,13 @@ I use Laravel as my primary language and Node.js for real time system and also p
 # Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Resternl&show_icons=true&theme=material-palenight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Resternl&show_icons=true&theme=onedark" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Resternl&theme=material-palenight" />
+  <img src="https://streak-stats.demolab.com?user=Resternl&theme=onedark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resternl&layout=compact&theme=material-palenight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=resternl&layout=compact&theme=onedark" />
 </p>
