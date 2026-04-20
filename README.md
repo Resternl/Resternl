@@ -5,7 +5,7 @@
 
 <h1>Hi!, i’m Kairo</h1>
 
-<h3>• Backend web dev </h3>
+<h3>• Backend dev </h3>
 
 <br>
 
